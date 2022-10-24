@@ -16,7 +16,11 @@
 
   ## [Description](#table-of-contents)
     This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-  
+    github: https://github.com/JorgeBesnierB/m12_EmployeeTracker 
+
+    Heroku: https://dashboard.heroku.com/apps/notetaker-11-heroku 
+
+    Deployed: https://notetaker-11-heroku.herokuapp.com
   ## [User Story](#table-of-contents)
         AS A small business owner
         I WANT to be able to write and save notes
